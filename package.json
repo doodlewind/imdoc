@@ -1,0 +1,22 @@
+{
+  "name": "imdoc",
+  "version": "1.0.1",
+  "description": "markdown documentation generator",
+  "main": "imdoc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "doc"
+  ],
+  "bin": "./imdoc.js",
+  "repository": "https://github.com/doodlewind/imdoc",
+  "author": "doodlewind",
+  "license": "MIT",
+  "dependencies": {
+    "highlight.js": "^9.6.0",
+    "marked": "^0.3.6",
+    "mkdirp": "^0.5.1"
+  }
+}
