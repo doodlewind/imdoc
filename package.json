@@ -1,6 +1,6 @@
 {
   "name": "imdoc",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "markdown documentation generator",
   "main": "imdoc.js",
   "scripts": {
@@ -15,7 +15,9 @@
   "author": "doodlewind",
   "license": "MIT",
   "dependencies": {
+    "cheerio": "^0.22.0",
     "highlight.js": "^9.6.0",
+    "lodash": "^4.16.2",
     "marked": "^0.3.6",
     "mkdirp": "^0.5.1"
   }

@@ -2,10 +2,10 @@ body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
   line-height: 1.6;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: white;
-  padding: 30px; }
+  padding: 40px 30px;
+  border-left: 1px #ddd solid;
+  border-right: 1px #ddd solid;
+  background-color: white; }
 
 body > *:first-child {
   margin-top: 0 !important; }
@@ -284,7 +284,7 @@ sup {
 @media screen and (min-width: 914px) {
     body {
         width: 854px;
-        margin:0 auto;
+        margin: 0 auto;
     }
 }
 @media print {
