@@ -37,6 +37,8 @@ imdoc watch file.md
 
 
 ## Changelog
+* `1.0.1`:
+    * Fix codec issue
 * `1.1.0`:
     * Add watcher
     * Add code example generator
@@ -44,7 +46,7 @@ imdoc watch file.md
 * `1.0.1`:
     * Add basic markdown convert support
 * `1.0.0`:
-    * Init repository.
+    * Init repository
 
 
 ## License
